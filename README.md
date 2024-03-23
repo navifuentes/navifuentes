@@ -5,6 +5,7 @@
 - Email: **iv.ifa94@gmail.com**
 - Discord : **Iván#6302** || **navi_f**
 - LinkedIn: <a href="https://www.linkedin.com/in/navi-fuentes/">/navi-fuentes</a>
+- My Portfolio:  <a href="https://ivan-portfolio-delta.vercel.app/">Ivan Fuentes's Portfolio</a>
 
 ### 💻 Tech Stack:
 
