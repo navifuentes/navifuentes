@@ -10,6 +10,9 @@
 ### 💻 Tech Stack:
 
 <div align="center">
+	<code><img width="50" src="https://img.shields.io/badge/Solidity-2b247c?logo=solidity&logoColor=white&style=for-the-badge
+" alt="Solidity" title="Solidity"/></code>
+	
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>Postman</code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>HTML5</code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>CSS</code>
